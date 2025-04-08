@@ -24,4 +24,4 @@ Então, você tem as seguintes ações disponíveis:
 4. Listar remédios com estoque abaixo de 5
 5. Listar remédios próximos ao vencimento (pra dar aquele discontinho maroto né kk)
 
-── ──── ── ── ─ ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── ──
+── ──── ── ── ─ ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── 

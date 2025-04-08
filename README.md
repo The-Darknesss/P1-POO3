@@ -1,4 +1,5 @@
 ── ──── ── ── ─ ──── ── ─── ──── ── ── README ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── ──
+
 Como executar o meu código grátis 2025 atualizado sem vírus:
 
 1. Baixar todos os arquivos em um arquivo ZIP

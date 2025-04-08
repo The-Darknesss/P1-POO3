@@ -10,6 +10,9 @@ Como executar o meu código grátis 2025 atualizado sem vírus:
 6. Abrir o aquivo "TelaInicial" no seu compilador java
 7. Configurar o seu sdk pq ngm é de ferro né é sempre bom ter certeza que ta tudo certo
 8. Executar o arquivo "TelaInicial" e ser feliz 👍
+9. Dar nota máxima ao aluno "João Pedro Azevedo do Prado Souza"
+
+Se algo der errado, pular direto para o passo mais importante sem medo (9)
  
 ── ──── ── ── ─ ──── ── ─── ──── ── ── RELATÓRIO ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ──
 

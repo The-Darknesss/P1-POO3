@@ -1,4 +1,4 @@
-── ──── ── ── ─ ──── ── ─── ──── ── ── README ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── ──
+── ──── ── ── ─ ──── ── ─── ──── ── ── README ──── ── ─── ──── ── ── ─ ──── ── ─── ────
 
 Como executar o meu código grátis 2025 atualizado sem vírus:
 
@@ -14,7 +14,7 @@ Como executar o meu código grátis 2025 atualizado sem vírus:
 
 Se algo der errado, pular direto para o passo mais importante sem medo (9)
  
-── ──── ── ── ─ ──── ── ─── ──── ── ── RELATÓRIO ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ──
+── ──── ── ── ─ ──── ── ─── ──── ── ── RELATÓRIO ──── ── ─── ──── ── ── ─ ──── ── ─── ──
 
 Então, você tem as seguintes ações disponíveis:
 
@@ -24,4 +24,4 @@ Então, você tem as seguintes ações disponíveis:
 4. Listar remédios com estoque abaixo de 5
 5. Listar remédios próximos ao vencimento (pra dar aquele discontinho maroto né kk)
 
-── ──── ── ── ─ ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── ── ─ ───
+── ──── ── ── ─ ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ── ──

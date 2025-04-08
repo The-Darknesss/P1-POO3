@@ -6,10 +6,10 @@ Como executar o meu código grátis 2025 atualizado sem vírus:
 2. Extrair todos os arquivos em uma pasta, de preferencia, em uma pasta vazia
 3. Abrir o seu compilador java de sua preferência
 4. Clicar em "Abrir uma pasta" e selecionar a pasta em que você extraiu os arquivos
-4,5. Aceitar/Concordar com qualquer pop-up que aparecer na sua tela
-5. Abrir o aquivo "TelaInicial" no seu compilador java
-6. Configurar o seu sdk pq ngm é de ferro né é sempre bom ter certeza que ta tudo certo
-7. Executar o arquivo "TelaInicial" e ser feliz 👍
+5. Aceitar/Concordar com qualquer pop-up que aparecer na sua tela
+6. Abrir o aquivo "TelaInicial" no seu compilador java
+7. Configurar o seu sdk pq ngm é de ferro né é sempre bom ter certeza que ta tudo certo
+8. Executar o arquivo "TelaInicial" e ser feliz 👍
  
 ── ──── ── ── ─ ──── ── ─── ──── ── ── RELATÓRIO ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ──
 

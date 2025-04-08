@@ -12,6 +12,7 @@ Como executar o meu código grátis 2025 atualizado sem vírus:
 7. Executar o arquivo "TelaInicial" e ser feliz 👍
  
 ── ──── ── ── ─ ──── ── ─── ──── ── ── RELATÓRIO ──── ── ─── ──── ── ── ─ ──── ── ─── ──── ──
+
 Então, você tem as seguintes ações disponíveis:
 
 1. Cadastrar um remédio
